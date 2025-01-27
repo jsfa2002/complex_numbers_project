@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Complex Numbers Library
 
 Librería en Python para realizar operaciones con números complejos modelados como tuplas.
@@ -12,3 +13,4 @@ Python 3.8 o superior.
    ```bash
    git clone https://github.com/jsfa2002/complex_numbers_project.git
    cd complex_numbers_project
+
